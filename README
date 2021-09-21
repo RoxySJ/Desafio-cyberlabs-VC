@@ -1,0 +1,3 @@
+Para realizar a tarefa de criar um classificador capaz de diferenciar os números 0 e 5 do dataset MNIST, foi implementada uma rede neural convolucional (CNN) em PyTorch com três camadas de convolução e duas camadas totalmente conectadas. O modelo foi treinado com o dataset de treino da MNIST e, em seguida, testado com o dataset de teste da MNIST. Com apenas 20 épocas, foi atingida uma acurácia de 99,9%.
+
+O código está todo comentado para o maior entendimento do leitor.
